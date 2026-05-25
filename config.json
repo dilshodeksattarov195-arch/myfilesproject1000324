@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuelete",
+        "uuid": 863784,
+        "checksum": "i0ddm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
